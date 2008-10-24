@@ -1,0 +1,2 @@
+#summary List of concrete requirements from the XMPP RFCs
+#labels Phase-QA
