@@ -12,5 +12,5 @@ You can browse the online anonymous repository here: http://heavy-horse.co.uk:40
 
 To download the current repository, you need to install [http://www.selenic.com/mercurial/wiki/ Mercurial] (the 'mercurial' package on Linux), or [http://tortoisehg.sourceforge.net/ TortoiseHg] for Windows.
 
-On Linux, run: 
+On BSD, Linux or any other UNIX-like system, run: 
 {{{ hg clone http://heavy-horse.co.uk:4000/ }}}
