@@ -1,16 +1,7 @@
 #summary How to grab the latest development snapshot of the source code
 
-= Introduction =
+Prosody's source code is hosted on our main website. For more information see:
 
-All our version control is handled using Mercurial.
+[http://prosody.im/source/start Various ways to get a copy of Prosody's source]
 
-= Browsing =
-
-You can browse the online anonymous repository here: http://heavy-horse.co.uk:4000/
-
-= Checking out =
-
-To download the current repository, you need to install [http://www.selenic.com/mercurial/wiki/ Mercurial] (the 'mercurial' package on Linux), or [http://tortoisehg.sourceforge.net/ TortoiseHg] for Windows.
-
-On BSD, Linux or any other UNIX-like system, run: 
-{{{ hg clone http://heavy-horse.co.uk:4000/ }}}
+[http://prosody.im/source/browse Browse Prosody's source code online]
